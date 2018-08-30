@@ -2,7 +2,7 @@ var keyData = {
     a: {
         color: "#27c15f",
         sound: new Howl( {src: ['Sounds/bubbles.mp3']} )
-    },
+    },    
     b: {
         color: "#2a054f",
         sound: new Howl( {src: ['Sounds/clay.mp3']} )
